@@ -1,0 +1,5 @@
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\bin\Release\net8.0\publish\ProjectExample.exe
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\bin\Release\net8.0\publish\ProjectExample.dll
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\bin\Release\net8.0\publish\ProjectExample.deps.json
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\bin\Release\net8.0\publish\ProjectExample.runtimeconfig.json
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\bin\Release\net8.0\publish\ProjectExample.pdb

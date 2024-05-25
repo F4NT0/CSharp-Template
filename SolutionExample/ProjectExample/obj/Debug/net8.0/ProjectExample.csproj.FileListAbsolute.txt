@@ -1,0 +1,15 @@
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\bin\Debug\net8.0\ProjectExample.exe
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\bin\Debug\net8.0\ProjectExample.deps.json
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\bin\Debug\net8.0\ProjectExample.runtimeconfig.json
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\bin\Debug\net8.0\ProjectExample.dll
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\bin\Debug\net8.0\ProjectExample.pdb
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\obj\Debug\net8.0\ProjectExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\obj\Debug\net8.0\ProjectExample.AssemblyInfoInputs.cache
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\obj\Debug\net8.0\ProjectExample.AssemblyInfo.cs
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\obj\Debug\net8.0\ProjectExample.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\obj\Debug\net8.0\ProjectExample.sourcelink.json
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\obj\Debug\net8.0\ProjectExample.dll
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\obj\Debug\net8.0\refint\ProjectExample.dll
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\obj\Debug\net8.0\ProjectExample.pdb
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\obj\Debug\net8.0\ProjectExample.genruntimeconfig.cache
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\CSharp-Template\SolutionExample\ProjectExample\obj\Debug\net8.0\ref\ProjectExample.dll
